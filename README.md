@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the assignments for UNITEC BCS!
+- 🔭 I’m about to start working on MSA 2024!
 
 <!--
 **AkoKBIkeda/AkoKBIkeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
