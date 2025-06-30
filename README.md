@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Kia ora, I'm Ako 👋
 
-🎓 A recent Bachelor of Computer Systems graduate with a passion for using technology to solve real-world problems.
+🎓 A recent Bachelor of Computer Systems graduate with a passion for using technology to solve real-world problems.  
 💡 I'm especially interested in building software that's efficient, easy to use, and well-designed. 
 
 ---
