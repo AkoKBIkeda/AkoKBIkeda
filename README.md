@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech I’m Comfortable With:
 
-**Frontend Development**  
+- **Frontend Development**  
 React · Tailwind CSS · HTML · CSS · JavaScript  
 
-**Backend Development & APIs**  
+- **Backend Development & APIs**  
 Django · REST APIs · OpenAI API  
 
-**Mobile & Cross-Platform Development**  
+- **Mobile & Cross-Platform Development**  
 Android Studio (Java)  
 
-**Tools & Platforms**  
+- **Tools & Platforms**  
 Git/GitHub · Figma · Jira (AgileBox)
 
 ---
