@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Solo project to join the Chingu programme    
   
 ### 🧰 I’m Comfortable With:
-**Frontend Development**  React · Tailwind CSS · HTML · CSS · JavaScript 
+**Frontend Development**  React · Tailwind CSS · HTML · CSS · JavaScript  
 **Backend Development & APIs**  Django · Django REST framework · OpenAI API  
 **Mobile & Cross-Platform Development**  Android Studio (Java)  
 **Tools & Platforms**  Git/GitHub · Figma · Jira (AgileBox)  
