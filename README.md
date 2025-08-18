@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 ![Profile README image](./GitHub.png)
 
 # Kia ora, I'm Ako 👋
-🎓 Recent Computer Systems graduate passionate about building efficient, user-friendly software that genuinely improves people’s lives in ethical and trustworthy ways. 
+Recent Bachelor of Computing Systems graduate passionate about building efficient, user-friendly software that genuinely improves people’s lives in ethical and trustworthy ways. 
   
 ### 👩‍💻 I recently worked on
-**Capstone project** 
+**Capstone project**  
   Developed a full-stack web application for a real-world platform in collaboration with an international company, focusing on responsive UI, seamless user experience, and AI-powered features.  
   Technologies used for the capstone: React · Django REST framework · Recharts · Tailwind CSS · OpenAI  
-**AI Hackathon 2025 by AI Forum NZ**
+  
+**AI Hackathon 2025 by AI Forum NZ**  
   Developed an MVP suggesting balanced school lunch menus, improving variety and appeal within existing nutrition, portion, and budget constraints for centralised meal providers.    
   Technologies used as a frontend developer: React · Tailwind CSS · Vercel  
   
