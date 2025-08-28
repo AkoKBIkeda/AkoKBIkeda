@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 Recent Bachelor of Computing Systems graduate passionate about building efficient, user-friendly software that genuinely improves people’s lives in ethical and trustworthy ways.  
   
 ## 👩‍💻 I recently worked on  
-###💻 Chingu Solo Project - Job Search Helper  
+### 💻 Chingu Solo Project - Job Search Helper  
 Built a full-stack MVP web application to join Chingu Voyage! The app helps users keep track of their job or company research, which is what I need right now. 😊  
 **Tech Stack:**  
 - **Frontend:** React · Tailwind CSS · Typescript · React Hook Form · Zod · Vercel - [Job Search Helper frontend repo](https://github.com/AkoKBIkeda/job-search-helper-frontend.git)   
 - **Backend:** Django REST framework · Render - [Job Search Helper backend repo](https://github.com/AkoKBIkeda/job-search-helper-backend)  
-<hr>
-###💻 Capstone Project  
+
+### 💻 Capstone Project  
 Developed a full-stack web application in collaboration with an international company, focusing on responsive UI, seamless user experience, and AI-powered features.  
 **Tech Stack:**  
 - **Frontend:** React · Tailwind CSS · Recharts · Jest  
 - **Backend:** Django REST framework · OpenAI  
-<hr>
-###💻 AI Hackathon 2025 by AI Forum NZ**  
+
+### 💻 AI Hackathon 2025 by AI Forum NZ**  
 Developed an MVP suggesting balanced school lunch menus, improving variety and appeal within existing nutrition, portion, and budget constraints for centralised meal providers.    
 **Tech Stack:** React · Tailwind CSS · Vercel  
   
