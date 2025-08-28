@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 Recent Bachelor of Computing Systems graduate passionate about building efficient, user-friendly software that genuinely improves people’s lives in ethical and trustworthy ways. 
   
 ### 👩‍💻 I recently worked on
-**Capstone project**  
+**Chingu Solo Project**  
+  Developed an MVP full-stack web application to join Chingu Voyage! The app helps users to keep track of their job search, just what I need now. 😊  
+  Technologies used for the solo project: **Frontend**: React · Tailwind CSS · Typescript · React Hook Form · Zod · Vercel / **Backend**: Django REST framework · Render  
+  [Job Search Helper frontend repo](https://github.com/AkoKBIkeda/job-search-helper-frontend.git) / [Job Search Helper backend repo](https://github.com/AkoKBIkeda/job-search-helper-backend)  
+
+**Capstone Project**  
   Developed a full-stack web application for a real-world platform in collaboration with an international company, focusing on responsive UI, seamless user experience, and AI-powered features.  
   Technologies used for the capstone: React · Django REST framework · Recharts · Tailwind CSS · OpenAI  
   
@@ -27,13 +32,13 @@ Recent Bachelor of Computing Systems graduate passionate about building efficien
   Technologies used as a frontend developer: React · Tailwind CSS · Vercel  
   
 ### 🛠️ I am working on
-Building a portfolio and a solo project to join the Chingu programme.  
+Building a portfolio and joining the Chingu Voyage 57 as a developer!  
   
 ### 🧰 I’m comfortable with
 〈Frontend Development〉 React · Tailwind CSS · HTML · CSS · JavaScript  
-〈Backend Development & APIs〉 Django · Django REST framework · OpenAI API  
-〈Mobile & Cross-Platform Development〉 Android Studio (Java)  
-〈Tools & Platforms〉 Git/GitHub · Figma · Jira (AgileBox)  
+〈Backend Development & APIs〉 Django · Django REST framework · Python · OpenAI API  
+〈Mobile & Desktop Development〉 Android Studio (Java) · C# Windows Forms App (.NET) · Java   
+〈Tools & Platforms〉 Git · GitHub · Figma · Jira (AgileBox) · Confluence  
   
 ### 🌱 I’m currently learning
 TypeScript, Vite, clean architecture in full-stack projects, mobile development frameworks, and cloud computing.
