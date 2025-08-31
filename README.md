@@ -6,8 +6,8 @@ Recent Bachelor of Computing Systems graduate passionate about building efficien
 ## 👩‍💻 Recent Projects  
 ### 💻 Chingu Solo Project - Job Search Helper  
 Built a full-stack MVP web application to join Chingu Voyage! The app helps users keep track of their job or company research, which aligns with my current needs.    
-- **Frontend:** React · Tailwind CSS · TypeScript · React Hook Form · Zod · Vercel [[Frontend repo](https://github.com/AkoKBIkeda/job-search-helper-frontend)]  
-- **Backend:** Django REST framework · Postman · Render [[Backend repo](https://github.com/AkoKBIkeda/job-search-helper-backend)]  
+- **Frontend:** React · Tailwind CSS · TypeScript · React Hook Form · Zod · Vercel [[Job Search Helper - Frontend](https://github.com/AkoKBIkeda/job-search-helper-frontend)]  
+- **Backend:** Django REST framework · Postman · Render [[Job Search Helper - Backend](https://github.com/AkoKBIkeda/job-search-helper-backend)]  
 
 ### 💻 Capstone Project  
 Developed a full-stack web application in collaboration with an international company, focusing on responsive UI, seamless user experience, and AI-powered features.   
@@ -16,7 +16,7 @@ Developed a full-stack web application in collaboration with an international co
 
 ### 💻 AI Hackathon 2025 by AI Forum NZ  
 Developed an MVP suggesting balanced school lunch menus, improving variety and appeal within existing nutrition, portion, and budget constraints for centralised meal providers.    
-- **Frontend:** React · Tailwind CSS · JavaScript · Vercel  
+- **Frontend:** React · Tailwind CSS · JavaScript · Vercel [[kAI - Frontend](https://github.com/AkoKBIkeda/happytummy-frontend)]    
   
 ## 🛠️ Current Projects
 Building a portfolio and joining the Chingu Voyage 57 as a developer!  
